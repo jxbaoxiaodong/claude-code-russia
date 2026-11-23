@@ -20,3 +20,5 @@ claude
 Модели: claude-sonnet-5 / claude-opus-5 (и -full — полный лимит). Цены — на сайте, оплата USDT.
 
 Это community quickstart-репозиторий проекта [tokenbuddy.cc](https://tokenbuddy.cc).
+
+<!-- updated 2026-11-23 13:03:54 -->
