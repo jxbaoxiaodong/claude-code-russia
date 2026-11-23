@@ -21,4 +21,4 @@ claude
 
 Это community quickstart-репозиторий проекта [tokenbuddy.cc](https://tokenbuddy.cc).
 
-<!-- updated 2026-11-23 13:03:54 -->
+<!-- updated 2026-11-23 13:05:38 -->
